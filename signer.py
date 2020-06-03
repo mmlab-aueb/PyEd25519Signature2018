@@ -24,11 +24,8 @@ doc = {
         'publicKeyBase58':'GKKcpmPU3sanTBkoDZq9fwwysu4x7VaUTquosPchSBza'
       }
     ],
-    'authentication': [
-      {
-        'type':'ED25519SigningAuthentication',
-        'publicKey': 'did:self:GKKcpmPU3sanTBkoDZq9fwwysu4x7VaUTquosPchSBza#key1'
-      }
+    'assertionMethod': [
+      'did:self:GKKcpmPU3sanTBkoDZq9fwwysu4x7VaUTquosPchSBza#key1'
     ]
 }
 
