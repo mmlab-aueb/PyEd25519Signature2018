@@ -1,5 +1,5 @@
 # PyEd25519Signature2018
-A python script that generates an Ed25519Signature2018 JSON-LD Signature
+A python script that generates an Ed25519Signature2018 JSON-LD proof used for assertions.
 
 ## Prerequisites
 This script assumes python3. Furthermore the following libraries are required:
