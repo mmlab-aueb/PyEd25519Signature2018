@@ -11,5 +11,5 @@ pip3 install pynacl PyLD
 Simple run
 
 ```
-python3 singer.py
+python3 signer.py
 ```
